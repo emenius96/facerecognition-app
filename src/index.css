@@ -6,10 +6,6 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
-
-canvas {
-  /* background: #0F1031;  */
   background: 	#355c7d 
 }
 
