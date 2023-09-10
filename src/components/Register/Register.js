@@ -61,7 +61,7 @@ class Register extends React.Component {
                     <label for="">Email</label>
                 </div>
                 <div class="user-box">
-                    <input type="text" name="" id="" required=" " onChange = {this.onPasswordChange}></input>
+                    <input type="password" name="" id="" required=" " onChange = {this.onPasswordChange}></input>
                     <label for="">Password</label>
                 </div>
                 <button onClick = {this.onSubmitSignIn}>
